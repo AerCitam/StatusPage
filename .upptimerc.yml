@@ -5,12 +5,19 @@ repo: StatusPage # The name of this repository
 sites:
   - name: Aer-Wsale
     url: https://aer-wsale.com
+    icon: https://aer-wsale.com/img/favicon-1.ico
+  - name: DropShip API
+    url: https://aer-wsale.com/ws?action=apitest
+    icon: https://aer-wsale.com/img/favicon-1.ico
   - name: VapeInItaly
     url: https://vapeinitaly.com
+    icon: https://vapeinitaly.com/img/favicon.ico
   - name: Vapr. Store
     url: https://vapr.store
+    icon: https://vapr.store/img/favicon.ico
   - name: Vapr.
     url: https://vapr.it
+    icon: https://vapr.store/img/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
