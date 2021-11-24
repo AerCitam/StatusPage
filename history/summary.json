@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2815,
-    "timeDay": 3165,
-    "timeWeek": 2815,
-    "timeMonth": 2815,
-    "timeYear": 2815,
+    "time": 2871,
+    "timeDay": 3595,
+    "timeWeek": 2871,
+    "timeMonth": 2871,
+    "timeYear": 2871,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1132,
-    "timeDay": 1142,
-    "timeWeek": 1132,
-    "timeMonth": 1132,
-    "timeYear": 1132,
+    "time": 1140,
+    "timeDay": 1233,
+    "timeWeek": 1140,
+    "timeMonth": 1140,
+    "timeYear": 1140,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1691,
-    "timeDay": 1815,
-    "timeWeek": 1691,
-    "timeMonth": 1691,
-    "timeYear": 1691,
+    "time": 1698,
+    "timeDay": 1786,
+    "timeWeek": 1698,
+    "timeMonth": 1698,
+    "timeYear": 1698,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 2084,
-    "timeDay": 2378,
-    "timeWeek": 2084,
-    "timeMonth": 2084,
-    "timeYear": 2084,
-    "dailyMinutesDown": {
-      "2021-11-23": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2090,
+    "timeDay": 2340,
+    "timeWeek": 2090,
+    "timeMonth": 2090,
+    "timeYear": 2090,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vapr.",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 1813,
-    "timeWeek": 1180,
-    "timeMonth": 1180,
-    "timeYear": 1180,
+    "time": 1185,
+    "timeDay": 1251,
+    "timeWeek": 1185,
+    "timeMonth": 1185,
+    "timeYear": 1185,
     "dailyMinutesDown": {}
   }
 ]
