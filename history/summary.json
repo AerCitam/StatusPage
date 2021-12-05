@@ -76,7 +76,7 @@
     "url": "https://vapr.it",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 912,
     "timeMonth": 1091,
     "timeYear": 1091,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 0
+    }
   }
 ]
