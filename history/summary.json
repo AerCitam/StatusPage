@@ -4,18 +4,20 @@
     "url": "https://aer-wsale.com",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3224,
-    "timeDay": 3649,
-    "timeWeek": 3642,
-    "timeMonth": 3410,
-    "timeYear": 3224,
-    "dailyMinutesDown": {}
+    "time": 3421,
+    "timeDay": 8060,
+    "timeWeek": 4745,
+    "timeMonth": 3703,
+    "timeYear": 3421,
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   },
   {
     "name": "DropShip API",
@@ -41,19 +43,17 @@
     "icon": "https://vapeinitaly.com/img/favicon.ico",
     "slug": "vape-in-italy",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1758,
     "timeDay": 2037,
     "timeWeek": 1787,
     "timeMonth": 1787,
     "timeYear": 1758,
-    "dailyMinutesDown": {
-      "2021-12-26": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vapr. Store",
@@ -61,18 +61,17 @@
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 2206,
     "timeDay": 6340,
     "timeWeek": 3224,
     "timeMonth": 2244,
     "timeYear": 2206,
     "dailyMinutesDown": {
-      "2021-12-26": 12,
       "2021-12-06": 24
     }
   },
