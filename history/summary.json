@@ -5,19 +5,17 @@
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3428,
-    "timeDay": 6630,
-    "timeWeek": 4637,
-    "timeMonth": 3705,
+    "timeDay": 6548,
+    "timeWeek": 4556,
+    "timeMonth": 3714,
     "timeYear": 3428,
-    "dailyMinutesDown": {
-      "2021-12-26": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DropShip API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 1231,
-    "timeWeek": 1366,
-    "timeMonth": 1311,
-    "timeYear": 1256,
+    "time": 1259,
+    "timeDay": 1370,
+    "timeWeek": 1342,
+    "timeMonth": 1317,
+    "timeYear": 1259,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1758,
-    "timeDay": 2037,
-    "timeWeek": 1787,
-    "timeMonth": 1787,
+    "timeDay": 1951,
+    "timeWeek": 1806,
+    "timeMonth": 1790,
     "timeYear": 1758,
     "dailyMinutesDown": {}
   },
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 2206,
-    "timeDay": 6340,
-    "timeWeek": 3224,
-    "timeMonth": 2244,
-    "timeYear": 2206,
+    "time": 2201,
+    "timeDay": 6229,
+    "timeWeek": 3201,
+    "timeMonth": 2251,
+    "timeYear": 2201,
     "dailyMinutesDown": {
       "2021-12-06": 24
     }
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1122,
-    "timeDay": 1400,
-    "timeWeek": 1150,
-    "timeMonth": 1082,
-    "timeYear": 1122,
+    "time": 1123,
+    "timeDay": 1186,
+    "timeWeek": 1138,
+    "timeMonth": 1093,
+    "timeYear": 1123,
     "dailyMinutesDown": {}
   }
 ]
