@@ -5,16 +5,16 @@
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 3472,
-    "timeDay": 3828,
-    "timeWeek": 3449,
-    "timeMonth": 3548,
-    "timeYear": 3472,
+    "uptimeYear": "99.99%",
+    "time": 3480,
+    "timeDay": 4246,
+    "timeWeek": 3518,
+    "timeMonth": 3571,
+    "timeYear": 3480,
     "dailyMinutesDown": {
       "2022-01-31": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1338,
-    "timeDay": 1538,
-    "timeWeek": 1441,
-    "timeMonth": 1460,
-    "timeYear": 1338,
+    "time": 1340,
+    "timeDay": 1474,
+    "timeWeek": 1458,
+    "timeMonth": 1463,
+    "timeYear": 1340,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1722,
-    "timeDay": 1634,
-    "timeWeek": 1612,
-    "timeMonth": 1679,
-    "timeYear": 1722,
+    "time": 1719,
+    "timeDay": 1503,
+    "timeWeek": 1602,
+    "timeMonth": 1686,
+    "timeYear": 1719,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2051,
-    "timeDay": 1475,
-    "timeWeek": 1696,
-    "timeMonth": 1862,
-    "timeYear": 2051,
+    "time": 2046,
+    "timeDay": 1598,
+    "timeWeek": 1640,
+    "timeMonth": 1865,
+    "timeYear": 2046,
     "dailyMinutesDown": {
       "2021-12-06": 24
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1076,
-    "timeDay": 1371,
-    "timeWeek": 1034,
-    "timeMonth": 1023,
-    "timeYear": 1076,
+    "time": 1075,
+    "timeDay": 929,
+    "timeWeek": 1056,
+    "timeMonth": 1021,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   }
 ]
