@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 3700,
-    "timeDay": 4666,
-    "timeWeek": 4916,
-    "timeMonth": 4251,
-    "timeYear": 3700,
+    "time": 3702,
+    "timeDay": 3834,
+    "timeWeek": 4798,
+    "timeMonth": 4256,
+    "timeYear": 3702,
     "dailyMinutesDown": {
       "2022-01-31": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1476,
-    "timeDay": 2216,
-    "timeWeek": 2149,
-    "timeMonth": 1841,
-    "timeYear": 1476,
+    "time": 1478,
+    "timeDay": 1735,
+    "timeWeek": 2082,
+    "timeMonth": 1848,
+    "timeYear": 1478,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1733,
-    "timeDay": 1695,
-    "timeWeek": 1737,
-    "timeMonth": 1745,
-    "timeYear": 1733,
+    "time": 1731,
+    "timeDay": 1542,
+    "timeWeek": 1712,
+    "timeMonth": 1746,
+    "timeYear": 1731,
     "dailyMinutesDown": {}
   },
   {
@@ -60,18 +60,19 @@
     "url": "https://vapr.store",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2014,
-    "timeDay": 1659,
-    "timeWeek": 1892,
-    "timeMonth": 1853,
-    "timeYear": 2014,
+    "time": 2009,
+    "timeDay": 1511,
+    "timeWeek": 1861,
+    "timeMonth": 1846,
+    "timeYear": 2009,
     "dailyMinutesDown": {
+      "2022-02-28": 1,
       "2021-12-06": 24
     }
   },
@@ -80,17 +81,19 @@
     "url": "https://vapr.it",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1106,
-    "timeDay": 1342,
-    "timeWeek": 1339,
-    "timeMonth": 1186,
-    "timeYear": 1106,
-    "dailyMinutesDown": {}
+    "time": 1105,
+    "timeDay": 943,
+    "timeWeek": 1274,
+    "timeMonth": 1182,
+    "timeYear": 1105,
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   }
 ]
