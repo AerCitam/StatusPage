@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3901,
-    "timeDay": 4528,
-    "timeWeek": 5013,
-    "timeMonth": 4860,
-    "timeYear": 3901,
+    "time": 3916,
+    "timeDay": 6114,
+    "timeWeek": 5183,
+    "timeMonth": 4930,
+    "timeYear": 3916,
     "dailyMinutesDown": {
       "2022-01-31": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1599,
-    "timeDay": 2156,
-    "timeWeek": 2201,
-    "timeMonth": 2143,
-    "timeYear": 1599,
+    "time": 1603,
+    "timeDay": 2172,
+    "timeWeek": 2133,
+    "timeMonth": 2155,
+    "timeYear": 1603,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://vapeinitaly.com/img/favicon.ico",
     "slug": "vape-in-italy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1705,
-    "timeDay": 1550,
-    "timeWeek": 1475,
-    "timeMonth": 1605,
-    "timeYear": 1705,
-    "dailyMinutesDown": {
-      "2022-03-24": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1702,
+    "timeDay": 1543,
+    "timeWeek": 1411,
+    "timeMonth": 1596,
+    "timeYear": 1702,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vapr. Store",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1992,
-    "timeDay": 1810,
-    "timeWeek": 2039,
-    "timeMonth": 1889,
-    "timeYear": 1992,
+    "time": 1991,
+    "timeDay": 1882,
+    "timeWeek": 1901,
+    "timeMonth": 1881,
+    "timeYear": 1991,
     "dailyMinutesDown": {
       "2021-12-06": 24
     }
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1112,
-    "timeDay": 1066,
-    "timeWeek": 1039,
-    "timeMonth": 1175,
+    "timeDay": 1029,
+    "timeWeek": 1004,
+    "timeMonth": 1157,
     "timeYear": 1112,
     "dailyMinutesDown": {}
   }
