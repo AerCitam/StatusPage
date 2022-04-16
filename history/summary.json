@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3842,
-    "timeDay": 1823,
-    "timeWeek": 1969,
-    "timeMonth": 3955,
-    "timeYear": 3842,
+    "time": 3832,
+    "timeDay": 2241,
+    "timeWeek": 2017,
+    "timeMonth": 3835,
+    "timeYear": 3832,
     "dailyMinutesDown": {
       "2022-01-31": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1646,
-    "timeDay": 1773,
-    "timeWeek": 1685,
-    "timeMonth": 2047,
-    "timeYear": 1646,
+    "time": 1647,
+    "timeDay": 1685,
+    "timeWeek": 1680,
+    "timeMonth": 2019,
+    "timeYear": 1647,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 1656,
-    "timeDay": 1744,
-    "timeWeek": 1348,
-    "timeMonth": 1434,
-    "timeYear": 1656,
+    "time": 1653,
+    "timeDay": 1282,
+    "timeWeek": 1353,
+    "timeMonth": 1417,
+    "timeYear": 1653,
     "dailyMinutesDown": {
       "2022-04-07": 33
     }
@@ -63,18 +63,17 @@
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1959,
-    "timeDay": 1862,
-    "timeWeek": 1763,
-    "timeMonth": 1824,
-    "timeYear": 1959,
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 1957,
+    "timeDay": 1891,
+    "timeWeek": 1793,
+    "timeMonth": 1828,
+    "timeYear": 1957,
     "dailyMinutesDown": {
-      "2022-04-15": 9,
       "2021-12-06": 24
     }
   },
@@ -89,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 845,
-    "timeWeek": 996,
-    "timeMonth": 1040,
-    "timeYear": 1101,
+    "time": 1100,
+    "timeDay": 932,
+    "timeWeek": 990,
+    "timeMonth": 1035,
+    "timeYear": 1100,
     "dailyMinutesDown": {}
   }
 ]
