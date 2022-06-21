@@ -4,10 +4,10 @@
     "url": "https://aer-wsale.com",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3518,
@@ -16,6 +16,7 @@
     "timeMonth": 2930,
     "timeYear": 3518,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2022-01-31": 17
     }
   },
@@ -24,27 +25,29 @@
     "url": "https://aer-wsale.com/ws?action=apitest",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "drop-ship-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1783,
-    "timeDay": 2144,
-    "timeWeek": 2173,
-    "timeMonth": 2189,
-    "timeYear": 1783,
-    "dailyMinutesDown": {}
+    "time": 1775,
+    "timeDay": 1084,
+    "timeWeek": 1904,
+    "timeMonth": 2121,
+    "timeYear": 1775,
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "VapeInItaly",
     "url": "https://vapeinitaly.com",
     "icon": "https://vapeinitaly.com/img/favicon.ico",
     "slug": "vape-in-italy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -54,6 +57,7 @@
     "timeMonth": 1529,
     "timeYear": 1588,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-04-07": 33
     }
   },
