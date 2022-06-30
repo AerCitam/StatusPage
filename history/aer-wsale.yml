@@ -1,7 +1,7 @@
 url: https://aer-wsale.com
-status: up
-code: 200
-responseTime: 3205
-lastUpdated: 2022-06-30T09:54:56.073Z
+status: down
+code: 403
+responseTime: 78
+lastUpdated: 2022-06-30T14:51:28.097Z
 startTime: Wed Nov 17 2021 15:58:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
