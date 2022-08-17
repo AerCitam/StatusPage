@@ -4,10 +4,10 @@
     "url": "https://aer-wsale.com",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 3386,
@@ -16,6 +16,7 @@
     "timeMonth": 3042,
     "timeYear": 3386,
     "dailyMinutesDown": {
+      "2022-08-17": 2,
       "2022-08-05": 27,
       "2022-06-21": 33,
       "2022-01-31": 17
