@@ -76,10 +76,10 @@
     "url": "https://vapr.store",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
     "time": 1857,
@@ -88,6 +88,7 @@
     "timeMonth": 1843,
     "timeYear": 1857,
     "dailyMinutesDown": {
+      "2022-11-09": 1,
       "2022-10-14": 52,
       "2022-10-04": 19,
       "2022-09-02": 25,
@@ -102,9 +103,9 @@
     "url": "https://vapr.it",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,6 +115,7 @@
     "timeMonth": 1147,
     "timeYear": 1147,
     "dailyMinutesDown": {
+      "2022-11-09": 0,
       "2022-08-18": 19
     }
   }
