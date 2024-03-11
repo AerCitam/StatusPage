@@ -18,6 +18,9 @@ sites:
   - name: Vapr.
     url: https://vapr.it
     icon: https://vapr.store/img/favicon.ico
+  - name: Dev2-vapeinitaly
+    url: dev2.vapeinitaly.com
+    icon: https://dev2vapeinitaly.com/img/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
