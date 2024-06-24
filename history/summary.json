@@ -98,19 +98,19 @@
     "url": "https://vapr.it",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1188,
-    "timeDay": 1036,
-    "timeWeek": 1183,
-    "timeMonth": 1129,
+    "timeDay": 1052,
+    "timeWeek": 1169,
+    "timeMonth": 1127,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-06-24": 0
+      "2024-06-24": 14
     }
   }
 ]
