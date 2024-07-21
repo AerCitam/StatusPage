@@ -69,19 +69,19 @@
     "url": "https://vapr.store",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1345,
-    "timeDay": 1085,
-    "timeWeek": 1198,
-    "timeMonth": 1273,
+    "timeDay": 1067,
+    "timeWeek": 1179,
+    "timeMonth": 1266,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2024-07-21": 17
+      "2024-07-21": 26
     }
   },
   {
