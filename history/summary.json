@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1358,
-    "timeDay": 891,
-    "timeWeek": 967,
-    "timeMonth": 1072,
-    "timeYear": 1312,
+    "time": 1357,
+    "timeDay": 927,
+    "timeWeek": 969,
+    "timeMonth": 1055,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2023-10-19": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2705,
-    "timeDay": 704,
-    "timeWeek": 701,
-    "timeMonth": 735,
-    "timeYear": 2494,
+    "time": 2704,
+    "timeDay": 672,
+    "timeWeek": 698,
+    "timeMonth": 732,
+    "timeYear": 2489,
     "dailyMinutesDown": {
       "2023-11-07": 18,
       "2023-10-19": 56
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 854,
-    "timeDay": 471,
-    "timeWeek": 468,
-    "timeMonth": 506,
-    "timeYear": 702,
+    "time": 851,
+    "timeDay": 456,
+    "timeWeek": 475,
+    "timeMonth": 508,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2024-01-14": 708,
       "2024-01-13": 75,
@@ -71,17 +71,17 @@
     "slug": "vapr-store",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1345,
-    "timeDay": 1067,
-    "timeWeek": 1179,
-    "timeMonth": 1266,
-    "timeYear": 1321,
+    "time": 1344,
+    "timeDay": 1059,
+    "timeWeek": 1171,
+    "timeMonth": 1237,
+    "timeYear": 1320,
     "dailyMinutesDown": {
-      "2024-07-21": 26
+      "2024-07-21": 17
     }
   },
   {
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1182,
-    "timeDay": 861,
-    "timeWeek": 1068,
-    "timeMonth": 1089,
-    "timeYear": 1170,
+    "time": 1183,
+    "timeDay": 1087,
+    "timeWeek": 1094,
+    "timeMonth": 1085,
+    "timeYear": 1169,
     "dailyMinutesDown": {}
   }
 ]
