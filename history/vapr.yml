@@ -1,7 +1,7 @@
 url: https://vapr.it
-status: up
-code: 200
-responseTime: 1488
-lastUpdated: 2025-11-02T23:00:25.400Z
+status: down
+code: 415
+responseTime: 882
+lastUpdated: 2025-11-03T04:02:06.138Z
 startTime: 2021-11-17T15:58:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
