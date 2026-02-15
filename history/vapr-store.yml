@@ -1,7 +1,7 @@
 url: https://vapr.store
-status: up
-code: 200
-responseTime: 1661
-lastUpdated: 2026-02-15T23:13:13.536Z
+status: down
+code: 415
+responseTime: 598
+lastUpdated: 2026-02-15T23:35:29.897Z
 startTime: 2021-11-17T15:58:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
