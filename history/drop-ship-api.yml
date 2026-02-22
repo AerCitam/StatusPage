@@ -1,7 +1,7 @@
 url: https://aer-wsale.com/ws?action=apitest
-status: down
-code: 415
-responseTime: 141
-lastUpdated: 2026-02-22T14:54:13.088Z
+status: up
+code: 200
+responseTime: 505
+lastUpdated: 2026-02-22T15:18:45.736Z
 startTime: 2021-11-18T08:28:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
