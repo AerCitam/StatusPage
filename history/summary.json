@@ -4,17 +4,17 @@
     "url": "https://aer-wsale.com",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.38%",
-    "uptimeWeek": "96.69%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "97.12%",
     "uptimeMonth": "95.46%",
-    "uptimeYear": "99.17%",
-    "time": 849,
-    "timeDay": 815,
-    "timeWeek": 669,
-    "timeMonth": 653,
-    "timeYear": 772,
+    "uptimeYear": "99.18%",
+    "time": 848,
+    "timeDay": 665,
+    "timeWeek": 658,
+    "timeMonth": 649,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2026-03-11": 52,
       "2026-03-08": 21,
@@ -75,8 +75,7 @@
       "2025-12-06": 27,
       "2025-12-04": 128,
       "2025-12-03": 37,
-      "2025-12-02": 26,
-      "2025-12-01": 38
+      "2025-12-02": 26
     }
   },
   {
@@ -84,17 +83,17 @@
     "url": "https://aer-wsale.com/ws?action=apitest",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "drop-ship-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "96.69%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "97.12%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "99.17%",
     "time": 1126,
-    "timeDay": 390,
-    "timeWeek": 410,
-    "timeMonth": 395,
-    "timeYear": 1160,
+    "timeDay": 322,
+    "timeWeek": 401,
+    "timeMonth": 393,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2026-03-11": 52,
       "2026-03-08": 21,
@@ -156,8 +155,7 @@
       "2025-12-04": 128,
       "2025-12-03": 37,
       "2025-12-02": 26,
-      "2025-12-01": 38,
-      "2025-11-30": 38
+      "2025-12-01": 38
     }
   },
   {
@@ -165,16 +163,16 @@
     "url": "https://vapeinitaly.com",
     "icon": "https://vapeinitaly.com/img/favicon.ico",
     "slug": "vape-in-italy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "96.68%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "97.12%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "99.17%",
     "time": 610,
-    "timeDay": 322,
-    "timeWeek": 392,
-    "timeMonth": 432,
+    "timeDay": 296,
+    "timeWeek": 391,
+    "timeMonth": 431,
     "timeYear": 610,
     "dailyMinutesDown": {
       "2026-03-11": 52,
@@ -238,7 +236,7 @@
       "2025-12-03": 37,
       "2025-12-02": 26,
       "2025-12-01": 38,
-      "2025-11-30": 65
+      "2025-11-30": 38
     }
   },
   {
@@ -246,17 +244,17 @@
     "url": "https://vapr.store",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "96.68%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "97.12%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "99.17%",
-    "time": 1318,
-    "timeDay": 1080,
-    "timeWeek": 1164,
-    "timeMonth": 1113,
-    "timeYear": 1312,
+    "time": 1317,
+    "timeDay": 908,
+    "timeWeek": 1134,
+    "timeMonth": 1107,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2026-03-11": 52,
       "2026-03-08": 21,
@@ -321,7 +319,7 @@
       "2025-12-03": 37,
       "2025-12-02": 26,
       "2025-12-01": 38,
-      "2025-11-30": 65
+      "2025-11-30": 38
     }
   },
   {
@@ -329,17 +327,17 @@
     "url": "https://vapr.it",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "95.56%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "95.55%",
+    "uptimeYear": "99.18%",
     "time": 1295,
-    "timeDay": 1203,
-    "timeWeek": 1178,
-    "timeMonth": 1230,
-    "timeYear": 1301,
+    "timeDay": 1101,
+    "timeWeek": 1165,
+    "timeMonth": 1227,
+    "timeYear": 1300,
     "dailyMinutesDown": {
       "2026-03-11": 52,
       "2026-03-08": 21,
@@ -403,7 +401,7 @@
       "2025-12-02": 26,
       "2025-12-01": 38,
       "2025-11-30": 65,
-      "2025-11-29": 46
+      "2025-11-29": 20
     }
   }
 ]
