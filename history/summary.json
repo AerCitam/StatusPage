@@ -4,17 +4,17 @@
     "url": "https://aer-wsale.com",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "87.56%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "87.54%",
     "uptimeWeek": "96.57%",
     "uptimeMonth": "95.89%",
     "uptimeYear": "99.20%",
-    "time": 830,
-    "timeDay": 718,
-    "timeWeek": 720,
-    "timeMonth": 663,
-    "timeYear": 769,
+    "time": 829,
+    "timeDay": 678,
+    "timeWeek": 692,
+    "timeMonth": 659,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2026-03-14": 160,
       "2026-03-13": 39,
@@ -74,7 +74,7 @@
       "2025-12-20": 23,
       "2025-12-14": 54,
       "2025-12-09": 25,
-      "2025-12-07": 45
+      "2025-12-07": 21
     }
   },
   {
@@ -82,17 +82,17 @@
     "url": "https://aer-wsale.com/ws?action=apitest",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "drop-ship-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "87.55%",
+    "uptimeDay": "87.54%",
     "uptimeWeek": "96.57%",
     "uptimeMonth": "95.89%",
-    "uptimeYear": "99.17%",
-    "time": 1119,
-    "timeDay": 455,
-    "timeWeek": 422,
-    "timeMonth": 402,
-    "timeYear": 1143,
+    "uptimeYear": "99.20%",
+    "time": 1118,
+    "timeDay": 431,
+    "timeWeek": 411,
+    "timeMonth": 400,
+    "timeYear": 1142,
     "dailyMinutesDown": {
       "2026-03-14": 160,
       "2026-03-13": 39,
@@ -152,8 +152,7 @@
       "2025-12-20": 23,
       "2025-12-14": 54,
       "2025-12-09": 50,
-      "2025-12-07": 190,
-      "2025-12-06": 9
+      "2025-12-07": 45
     }
   },
   {
@@ -161,17 +160,17 @@
     "url": "https://vapeinitaly.com",
     "icon": "https://vapeinitaly.com/img/favicon.ico",
     "slug": "vape-in-italy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "87.55%",
+    "uptimeDay": "87.53%",
     "uptimeWeek": "96.57%",
     "uptimeMonth": "95.89%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 608,
-    "timeDay": 384,
-    "timeWeek": 366,
-    "timeMonth": 417,
-    "timeYear": 603,
+    "timeDay": 354,
+    "timeWeek": 361,
+    "timeMonth": 416,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2026-03-14": 160,
       "2026-03-13": 39,
@@ -232,7 +231,7 @@
       "2025-12-14": 54,
       "2025-12-09": 50,
       "2025-12-07": 190,
-      "2025-12-06": 27
+      "2025-12-06": 9
     }
   },
   {
@@ -240,17 +239,17 @@
     "url": "https://vapr.store",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "87.54%",
-    "uptimeWeek": "96.57%",
-    "uptimeMonth": "96.00%",
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "95.99%",
     "uptimeYear": "99.17%",
-    "time": 1314,
-    "timeDay": 1085,
-    "timeWeek": 1105,
-    "timeMonth": 1113,
-    "timeYear": 1307,
+    "time": 1313,
+    "timeDay": 994,
+    "timeWeek": 1082,
+    "timeMonth": 1107,
+    "timeYear": 1305,
     "dailyMinutesDown": {
       "2026-03-14": 160,
       "2026-03-13": 39,
@@ -313,7 +312,7 @@
       "2025-12-14": 54,
       "2025-12-09": 25,
       "2025-12-07": 190,
-      "2025-12-06": 27
+      "2025-12-06": 9
     }
   },
   {
@@ -321,16 +320,16 @@
     "url": "https://vapr.it",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "87.53%",
+    "uptimeDay": "87.50%",
     "uptimeWeek": "96.56%",
     "uptimeMonth": "95.99%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 1285,
-    "timeDay": 1101,
-    "timeWeek": 1094,
-    "timeMonth": 1212,
+    "timeDay": 1054,
+    "timeWeek": 1090,
+    "timeMonth": 1209,
     "timeYear": 1295,
     "dailyMinutesDown": {
       "2026-03-14": 160,
@@ -393,7 +392,7 @@
       "2025-12-09": 25,
       "2025-12-07": 190,
       "2025-12-06": 27,
-      "2025-12-04": 59
+      "2025-12-04": 21
     }
   }
 ]
