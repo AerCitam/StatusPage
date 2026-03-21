@@ -4,17 +4,17 @@
     "url": "https://aer-wsale.com",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "97.05%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "99.18%",
     "time": 872,
-    "timeDay": 728,
-    "timeWeek": 1058,
-    "timeMonth": 759,
-    "timeYear": 775,
+    "timeDay": 608,
+    "timeWeek": 1148,
+    "timeMonth": 758,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2026-03-21": 20,
       "2026-03-19": 40,
@@ -74,8 +74,7 @@
       "2025-12-30": 106,
       "2025-12-29": 52,
       "2025-12-28": 60,
-      "2025-12-23": 17,
-      "2025-12-21": 21
+      "2025-12-23": 17
     }
   },
   {
@@ -83,17 +82,17 @@
     "url": "https://aer-wsale.com/ws?action=apitest",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "drop-ship-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "99.17%",
-    "time": 1080,
-    "timeDay": 382,
-    "timeWeek": 531,
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "99.18%",
+    "time": 1079,
+    "timeDay": 370,
+    "timeWeek": 565,
     "timeMonth": 441,
-    "timeYear": 1130,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2026-03-21": 20,
       "2026-03-19": 40,
@@ -155,8 +154,7 @@
       "2025-12-28": 42,
       "2025-12-23": 17,
       "2025-12-21": 21,
-      "2025-12-20": 23,
-      "2025-12-14": 17
+      "2025-12-20": 23
     }
   },
   {
@@ -164,16 +162,16 @@
     "url": "https://vapeinitaly.com",
     "icon": "https://vapeinitaly.com/img/favicon.ico",
     "slug": "vape-in-italy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "99.18%",
     "time": 604,
-    "timeDay": 734,
-    "timeWeek": 566,
-    "timeMonth": 454,
+    "timeDay": 669,
+    "timeWeek": 626,
+    "timeMonth": 457,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2026-03-21": 20,
@@ -237,7 +235,7 @@
       "2025-12-23": 17,
       "2025-12-21": 21,
       "2025-12-20": 23,
-      "2025-12-14": 54
+      "2025-12-14": 17
     }
   },
   {
@@ -245,17 +243,17 @@
     "url": "https://vapr.store",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "99.17%",
-    "time": 1315,
-    "timeDay": 1117,
-    "timeWeek": 1408,
-    "timeMonth": 1202,
-    "timeYear": 1310,
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "99.18%",
+    "time": 1314,
+    "timeDay": 947,
+    "timeWeek": 1490,
+    "timeMonth": 1197,
+    "timeYear": 1309,
     "dailyMinutesDown": {
       "2026-03-21": 20,
       "2026-03-19": 40,
@@ -319,8 +317,7 @@
       "2025-12-28": 42,
       "2025-12-23": 17,
       "2025-12-21": 21,
-      "2025-12-20": 23,
-      "2025-12-14": 17
+      "2025-12-20": 23
     }
   },
   {
@@ -328,17 +325,17 @@
     "url": "https://vapr.it",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "97.15%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.19%",
     "uptimeYear": "99.18%",
     "time": 1284,
-    "timeDay": 1259,
-    "timeWeek": 1217,
-    "timeMonth": 1232,
-    "timeYear": 1295,
+    "timeDay": 1113,
+    "timeWeek": 1253,
+    "timeMonth": 1228,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2026-03-21": 20,
       "2026-03-19": 40,
@@ -401,8 +398,7 @@
       "2025-12-23": 17,
       "2025-12-21": 21,
       "2025-12-20": 23,
-      "2025-12-14": 54,
-      "2025-12-09": 25
+      "2025-12-14": 54
     }
   }
 ]
