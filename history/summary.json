@@ -4,16 +4,16 @@
     "url": "https://aer-wsale.com",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "57.48%",
-    "uptimeWeek": "78.94%",
-    "uptimeMonth": "77.25%",
+    "uptimeDay": "56.87%",
+    "uptimeWeek": "78.85%",
+    "uptimeMonth": "77.23%",
     "uptimeYear": "97.40%",
     "time": 747,
-    "timeDay": 535,
-    "timeWeek": 571,
-    "timeMonth": 608,
+    "timeDay": 596,
+    "timeWeek": 581,
+    "timeMonth": 611,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2026-03-21": 41,
@@ -79,7 +79,7 @@
       "2026-06-28": 342,
       "2026-06-29": 398,
       "2026-06-30": 341,
-      "2026-07-01": 272
+      "2026-07-01": 281
     }
   },
   {
@@ -87,16 +87,16 @@
     "url": "https://aer-wsale.com/ws?action=apitest",
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "drop-ship-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "57.52%",
-    "uptimeWeek": "78.97%",
-    "uptimeMonth": "77.27%",
+    "uptimeDay": "56.91%",
+    "uptimeWeek": "78.88%",
+    "uptimeMonth": "77.25%",
     "uptimeYear": "97.40%",
-    "time": 975,
-    "timeDay": 464,
-    "timeWeek": 420,
-    "timeMonth": 470,
+    "time": 974,
+    "timeDay": 498,
+    "timeWeek": 427,
+    "timeMonth": 472,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2026-03-21": 41,
@@ -162,7 +162,7 @@
       "2026-06-28": 341,
       "2026-06-29": 398,
       "2026-06-30": 340,
-      "2026-07-01": 272
+      "2026-07-01": 280
     }
   },
   {
@@ -243,7 +243,7 @@
       "2026-04-06": 55,
       "2026-04-07": 75,
       "2026-04-09": 45,
-      "2026-07-01": 286,
+      "2026-07-01": 295,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -333,17 +333,17 @@
     "url": "https://vapr.store",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr-store",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "57.56%",
-    "uptimeWeek": "79.00%",
-    "uptimeMonth": "77.29%",
-    "uptimeYear": "97.41%",
-    "time": 1303,
-    "timeDay": 1184,
-    "timeWeek": 1112,
-    "timeMonth": 1232,
-    "timeYear": 1285,
+    "uptimeDay": "56.94%",
+    "uptimeWeek": "78.91%",
+    "uptimeMonth": "77.27%",
+    "uptimeYear": "97.40%",
+    "time": 1304,
+    "timeDay": 1291,
+    "timeWeek": 1133,
+    "timeMonth": 1238,
+    "timeYear": 1286,
     "dailyMinutesDown": {
       "2026-03-21": 42,
       "2026-03-25": 35,
@@ -408,7 +408,7 @@
       "2026-06-28": 340,
       "2026-06-29": 398,
       "2026-06-30": 339,
-      "2026-07-01": 271
+      "2026-07-01": 280
     }
   },
   {
@@ -416,17 +416,17 @@
     "url": "https://vapr.it",
     "icon": "https://vapr.store/img/favicon.ico",
     "slug": "vapr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "57.60%",
-    "uptimeWeek": "79.03%",
-    "uptimeMonth": "77.31%",
+    "uptimeDay": "56.98%",
+    "uptimeWeek": "78.94%",
+    "uptimeMonth": "77.29%",
     "uptimeYear": "97.41%",
-    "time": 1400,
-    "timeDay": 1861,
-    "timeWeek": 1731,
-    "timeMonth": 1800,
-    "timeYear": 1392,
+    "time": 1401,
+    "timeDay": 2039,
+    "timeWeek": 1766,
+    "timeMonth": 1810,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2026-03-21": 42,
       "2026-03-25": 35,
@@ -491,7 +491,7 @@
       "2026-06-28": 339,
       "2026-06-29": 398,
       "2026-06-30": 339,
-      "2026-07-01": 271
+      "2026-07-01": 280
     }
   }
 ]
