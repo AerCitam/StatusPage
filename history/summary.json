@@ -5,11 +5,11 @@
     "icon": "https://aer-wsale.com/img/favicon-1.ico",
     "slug": "aer-wsale",
     "status": "down",
-    "uptime": "99.34%",
+    "uptime": "99.33%",
     "uptimeDay": "81.19%",
-    "uptimeWeek": "80.71%",
+    "uptimeWeek": "79.29%",
     "uptimeMonth": "76.63%",
-    "uptimeYear": "96.92%",
+    "uptimeYear": "96.90%",
     "time": 744,
     "timeDay": 662,
     "timeWeek": 616,
@@ -72,7 +72,7 @@
       "2026-07-14": 277,
       "2026-07-15": 404,
       "2026-07-16": 334,
-      "2026-07-17": 1
+      "2026-07-17": 144
     }
   },
   {
@@ -83,9 +83,9 @@
     "status": "down",
     "uptime": "99.34%",
     "uptimeDay": "81.21%",
-    "uptimeWeek": "80.74%",
+    "uptimeWeek": "79.32%",
     "uptimeMonth": "76.66%",
-    "uptimeYear": "96.93%",
+    "uptimeYear": "96.90%",
     "time": 941,
     "timeDay": 410,
     "timeWeek": 448,
@@ -148,7 +148,7 @@
       "2026-07-14": 276,
       "2026-07-15": 404,
       "2026-07-16": 335,
-      "2026-07-17": 1
+      "2026-07-17": 144
     }
   },
   {
@@ -157,11 +157,11 @@
     "icon": "https://vapeinitaly.com/img/favicon.ico",
     "slug": "vape-in-italy",
     "status": "down",
-    "uptime": "94.08%",
+    "uptime": "94.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.37%",
+    "uptimeYear": "72.34%",
     "time": 550,
     "timeDay": 0,
     "timeWeek": 26,
@@ -229,7 +229,7 @@
       "2026-04-06": 55,
       "2026-04-07": 75,
       "2026-04-09": 45,
-      "2026-07-17": 65,
+      "2026-07-17": 208,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -338,9 +338,9 @@
     "status": "down",
     "uptime": "99.34%",
     "uptimeDay": "81.24%",
-    "uptimeWeek": "80.77%",
+    "uptimeWeek": "79.35%",
     "uptimeMonth": "76.68%",
-    "uptimeYear": "96.93%",
+    "uptimeYear": "96.90%",
     "time": 1296,
     "timeDay": 1159,
     "timeWeek": 1139,
@@ -403,7 +403,7 @@
       "2026-07-14": 276,
       "2026-07-15": 403,
       "2026-07-16": 335,
-      "2026-07-17": 1
+      "2026-07-17": 144
     }
   },
   {
@@ -414,9 +414,9 @@
     "status": "down",
     "uptime": "99.34%",
     "uptimeDay": "81.26%",
-    "uptimeWeek": "80.80%",
+    "uptimeWeek": "79.38%",
     "uptimeMonth": "76.71%",
-    "uptimeYear": "96.93%",
+    "uptimeYear": "96.91%",
     "time": 1428,
     "timeDay": 1711,
     "timeWeek": 1799,
@@ -479,7 +479,7 @@
       "2026-07-14": 276,
       "2026-07-15": 401,
       "2026-07-16": 335,
-      "2026-07-17": 0
+      "2026-07-17": 144
     }
   }
 ]
